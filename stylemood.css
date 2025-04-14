@@ -1,0 +1,26 @@
+body {
+    text-align: center;
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+#emoji {
+    font-size: 100px; /* Make the emoji large enough */
+    margin: 30px;
+}
+
+button {
+    font-size: 16px;
+    cursor: pointer;
+    background: #4CAF50;
+    color: white;
+    border-radius: 5px;
+    margin: 10px;
+    padding: 10px 20px;
+    border: none;
+}
+
+button:hover {
+    background: #45a049;
+}
